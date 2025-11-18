@@ -10,4 +10,5 @@ node_modules/
 .github/
 cloudinary_python.txt
 blog/fixtures/ 
-staticfiles/
+
+
